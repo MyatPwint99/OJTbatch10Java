@@ -1,0 +1,24 @@
+.clearfix {
+  display: block;
+  clear: both;
+  content: "";
+}
+.createform{
+  margin: auto;
+  width: 50%;
+  border: 3px solid lightblue;
+  padding: 10px;
+}
+
+h1{
+    text-align : center;
+}
+
+.lft-btn{
+ float:left;
+ width: 50%;
+}
+.rgt-btn{
+ float:right;
+ width: 30%;
+}
